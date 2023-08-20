@@ -1,0 +1,14 @@
+{
+    "blogs":[
+        {
+            "id":1,
+            "email":"admin@example.com",
+            "password":"password"
+        },
+        {
+            "id":2,
+            "email":"admin@example.com",
+            "password":"12345"
+        }
+    ]
+}
