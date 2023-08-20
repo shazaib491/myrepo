@@ -5,3 +5,5 @@ const getData=async()=>{
 }
 
 getData();
+
+console.log("sdjfnsdjkfk")
