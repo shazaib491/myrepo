@@ -5,8 +5,4 @@ const getData=async()=>{
 }
 
 getData();
-
-
-
-
 console.error("Hell Wolrd")
